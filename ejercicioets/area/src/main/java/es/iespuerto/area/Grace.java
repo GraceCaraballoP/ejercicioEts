@@ -34,6 +34,5 @@ public class Grace{
     public void CalculoArea(int valor1, int valor2){
         
     }
-
    
 }
